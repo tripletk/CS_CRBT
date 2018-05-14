@@ -15,6 +15,16 @@
 		EAAA8CC320A9AB5A006ADEE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CC120A9AB5A006ADEE8 /* LaunchScreen.storyboard */; };
 		EAAA8CCE20A9AB5A006ADEE8 /* CS_CRBTv2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CCD20A9AB5A006ADEE8 /* CS_CRBTv2Tests.swift */; };
 		EAAA8CD920A9AB5A006ADEE8 /* CS_CRBTv2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CD820A9AB5A006ADEE8 /* CS_CRBTv2UITests.swift */; };
+		EAAA8CEC20A9C294006ADEE8 /* Profile.png in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CE720A9C293006ADEE8 /* Profile.png */; };
+		EAAA8CED20A9C294006ADEE8 /* slide3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CE820A9C294006ADEE8 /* slide3.jpg */; };
+		EAAA8CEE20A9C294006ADEE8 /* SignUp.png in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CE920A9C294006ADEE8 /* SignUp.png */; };
+		EAAA8CEF20A9C294006ADEE8 /* slide0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CEA20A9C294006ADEE8 /* slide0.jpg */; };
+		EAAA8CF020A9C294006ADEE8 /* slide2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CEB20A9C294006ADEE8 /* slide2.jpg */; };
+		EAAA8CF220A9C9BE006ADEE8 /* CS_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CF120A9C9BE006ADEE8 /* CS_Logo.png */; };
+		EAAA8CF420A9CC54006ADEE8 /* Background in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CF320A9CC53006ADEE8 /* Background */; };
+		EAAA8CF620A9CD8D006ADEE8 /* ZawDecode.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */; };
+		EAAA8CF720A9CD93006ADEE8 /* ZawDecode.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */; };
+		EAAA8CF820A9CD94006ADEE8 /* ZawDecode.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +59,14 @@
 		EAAA8CD420A9AB5A006ADEE8 /* CS_CRBTv2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CS_CRBTv2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAAA8CD820A9AB5A006ADEE8 /* CS_CRBTv2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS_CRBTv2UITests.swift; sourceTree = "<group>"; };
 		EAAA8CDA20A9AB5A006ADEE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAAA8CE720A9C293006ADEE8 /* Profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Profile.png; sourceTree = "<group>"; };
+		EAAA8CE820A9C294006ADEE8 /* slide3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slide3.jpg; sourceTree = "<group>"; };
+		EAAA8CE920A9C294006ADEE8 /* SignUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SignUp.png; sourceTree = "<group>"; };
+		EAAA8CEA20A9C294006ADEE8 /* slide0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slide0.jpg; sourceTree = "<group>"; };
+		EAAA8CEB20A9C294006ADEE8 /* slide2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slide2.jpg; sourceTree = "<group>"; };
+		EAAA8CF120A9C9BE006ADEE8 /* CS_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CS_Logo.png; sourceTree = "<group>"; };
+		EAAA8CF320A9CC53006ADEE8 /* Background */ = {isa = PBXFileReference; lastKnownFileType = file; path = Background; sourceTree = "<group>"; };
+		EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ZawDecode.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +117,9 @@
 		EAAA8CB520A9AB58006ADEE8 /* CS_CRBTv2 */ = {
 			isa = PBXGroup;
 			children = (
+				EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */,
 				EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */,
+				EAAA8CE620A9C24C006ADEE8 /* Graphics */,
 				EAAA8CB820A9AB58006ADEE8 /* FirstViewController.swift */,
 				EAAA8CBA20A9AB58006ADEE8 /* SecondViewController.swift */,
 				EAAA8CBC20A9AB58006ADEE8 /* Main.storyboard */,
@@ -126,6 +146,20 @@
 				EAAA8CDA20A9AB5A006ADEE8 /* Info.plist */,
 			);
 			path = CS_CRBTv2UITests;
+			sourceTree = "<group>";
+		};
+		EAAA8CE620A9C24C006ADEE8 /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				EAAA8CF120A9C9BE006ADEE8 /* CS_Logo.png */,
+				EAAA8CE720A9C293006ADEE8 /* Profile.png */,
+				EAAA8CE920A9C294006ADEE8 /* SignUp.png */,
+				EAAA8CEA20A9C294006ADEE8 /* slide0.jpg */,
+				EAAA8CEB20A9C294006ADEE8 /* slide2.jpg */,
+				EAAA8CE820A9C294006ADEE8 /* slide3.jpg */,
+				EAAA8CF320A9CC53006ADEE8 /* Background */,
+			);
+			path = Graphics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +266,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAAA8CF420A9CC54006ADEE8 /* Background in Resources */,
 				EAAA8CC320A9AB5A006ADEE8 /* LaunchScreen.storyboard in Resources */,
 				EAAA8CC020A9AB5A006ADEE8 /* Assets.xcassets in Resources */,
+				EAAA8CF020A9C294006ADEE8 /* slide2.jpg in Resources */,
+				EAAA8CF220A9C9BE006ADEE8 /* CS_Logo.png in Resources */,
+				EAAA8CEE20A9C294006ADEE8 /* SignUp.png in Resources */,
 				EAAA8CBE20A9AB58006ADEE8 /* Main.storyboard in Resources */,
+				EAAA8CED20A9C294006ADEE8 /* slide3.jpg in Resources */,
+				EAAA8CEC20A9C294006ADEE8 /* Profile.png in Resources */,
+				EAAA8CF620A9CD8D006ADEE8 /* ZawDecode.ttf in Resources */,
+				EAAA8CEF20A9C294006ADEE8 /* slide0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +284,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAAA8CF720A9CD93006ADEE8 /* ZawDecode.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +292,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAAA8CF820A9CD94006ADEE8 /* ZawDecode.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +481,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2PYA34AW5V;
 				INFOPLIST_FILE = CS_CRBTv2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -455,6 +500,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2PYA34AW5V;
 				INFOPLIST_FILE = CS_CRBTv2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
