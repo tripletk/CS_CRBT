@@ -119,11 +119,11 @@
 			children = (
 				EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */,
 				EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */,
-				EAAA8CE620A9C24C006ADEE8 /* Graphics */,
 				EAAA8CB820A9AB58006ADEE8 /* FirstViewController.swift */,
 				EAAA8CBA20A9AB58006ADEE8 /* SecondViewController.swift */,
 				EAAA8CBC20A9AB58006ADEE8 /* Main.storyboard */,
 				EAAA8CBF20A9AB5A006ADEE8 /* Assets.xcassets */,
+				EAAA8CE620A9C24C006ADEE8 /* Graphics */,
 				EAAA8CC120A9AB5A006ADEE8 /* LaunchScreen.storyboard */,
 				EAAA8CC420A9AB5A006ADEE8 /* Info.plist */,
 			);
@@ -151,12 +151,12 @@
 		EAAA8CE620A9C24C006ADEE8 /* Graphics */ = {
 			isa = PBXGroup;
 			children = (
-				EAAA8CF120A9C9BE006ADEE8 /* CS_Logo.png */,
-				EAAA8CE720A9C293006ADEE8 /* Profile.png */,
-				EAAA8CE920A9C294006ADEE8 /* SignUp.png */,
 				EAAA8CEA20A9C294006ADEE8 /* slide0.jpg */,
 				EAAA8CEB20A9C294006ADEE8 /* slide2.jpg */,
 				EAAA8CE820A9C294006ADEE8 /* slide3.jpg */,
+				EAAA8CF120A9C9BE006ADEE8 /* CS_Logo.png */,
+				EAAA8CE720A9C293006ADEE8 /* Profile.png */,
+				EAAA8CE920A9C294006ADEE8 /* SignUp.png */,
 				EAAA8CF320A9CC53006ADEE8 /* Background */,
 			);
 			path = Graphics;
