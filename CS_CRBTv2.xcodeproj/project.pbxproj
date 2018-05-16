@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EA8A5BE420AC1B4500DD8AA9 /* Card.png in Resources */ = {isa = PBXBuildFile; fileRef = EA8A5BE320AC1B4500DD8AA9 /* Card.png */; };
-		EA8A5BE620AC1BE000DD8AA9 /* Card2.png in Resources */ = {isa = PBXBuildFile; fileRef = EA8A5BE520AC1BE000DD8AA9 /* Card2.png */; };
 		EAAA8CB720A9AB58006ADEE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */; };
 		EAAA8CB920A9AB58006ADEE8 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CB820A9AB58006ADEE8 /* FirstViewController.swift */; };
 		EAAA8CBB20A9AB58006ADEE8 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CBA20A9AB58006ADEE8 /* SecondViewController.swift */; };
@@ -47,8 +45,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EA8A5BE320AC1B4500DD8AA9 /* Card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Card.png; sourceTree = "<group>"; };
-		EA8A5BE520AC1BE000DD8AA9 /* Card2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Card2.png; sourceTree = "<group>"; };
 		EAAA8CB320A9AB58006ADEE8 /* CS_CRBTv2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CS_CRBTv2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAAA8CB820A9AB58006ADEE8 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -155,8 +151,6 @@
 		EAAA8CE620A9C24C006ADEE8 /* Graphics */ = {
 			isa = PBXGroup;
 			children = (
-				EA8A5BE320AC1B4500DD8AA9 /* Card.png */,
-				EA8A5BE520AC1BE000DD8AA9 /* Card2.png */,
 				EAAA8CEA20A9C294006ADEE8 /* slide0.jpg */,
 				EAAA8CEB20A9C294006ADEE8 /* slide2.jpg */,
 				EAAA8CE820A9C294006ADEE8 /* slide3.jpg */,
@@ -280,9 +274,7 @@
 				EAAA8CEE20A9C294006ADEE8 /* SignUp.png in Resources */,
 				EAAA8CBE20A9AB58006ADEE8 /* Main.storyboard in Resources */,
 				EAAA8CED20A9C294006ADEE8 /* slide3.jpg in Resources */,
-				EA8A5BE620AC1BE000DD8AA9 /* Card2.png in Resources */,
 				EAAA8CEC20A9C294006ADEE8 /* Profile.png in Resources */,
-				EA8A5BE420AC1B4500DD8AA9 /* Card.png in Resources */,
 				EAAA8CF620A9CD8D006ADEE8 /* ZawDecode.ttf in Resources */,
 				EAAA8CEF20A9C294006ADEE8 /* slide0.jpg in Resources */,
 			);
