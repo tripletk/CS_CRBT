@@ -1,0 +1,6 @@
+framework module Pods_CS_CRBTv2Tests {
+  umbrella header "Pods-CS_CRBTv2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
