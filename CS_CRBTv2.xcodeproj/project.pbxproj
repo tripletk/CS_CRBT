@@ -12,6 +12,8 @@
 		EA0414A420AD2FD8005D43ED /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EA0414A320AD2FD8005D43ED /* GoogleService-Info.plist */; };
 		EA0414A520AD2FD8005D43ED /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EA0414A320AD2FD8005D43ED /* GoogleService-Info.plist */; };
 		EA0414A620AD2FD8005D43ED /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EA0414A320AD2FD8005D43ED /* GoogleService-Info.plist */; };
+		EA894C1320AD92F900C8B1D9 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA894C1220AD92F900C8B1D9 /* CollectionViewCell.swift */; };
+		EA894C1520AD98BB00C8B1D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA894C1420AD98BB00C8B1D9 /* ViewController.swift */; };
 		EA8A5BEA20AC449000DD8AA9 /* BAGAN.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EA8A5BE920AC448F00DD8AA9 /* BAGAN.jpg */; };
 		EAAA8CB720A9AB58006ADEE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */; };
 		EAAA8CB920A9AB58006ADEE8 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA8CB820A9AB58006ADEE8 /* FirstViewController.swift */; };
@@ -60,6 +62,8 @@
 		B0E6A043E4BCF945F1394B9B /* Pods-CS_CRBTv2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CS_CRBTv2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CS_CRBTv2/Pods-CS_CRBTv2.debug.xcconfig"; sourceTree = "<group>"; };
 		CC82EF32B62D44F88B5F3014 /* Pods-CS_CRBTv2UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CS_CRBTv2UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CS_CRBTv2UITests/Pods-CS_CRBTv2UITests.release.xcconfig"; sourceTree = "<group>"; };
 		EA0414A320AD2FD8005D43ED /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		EA894C1220AD92F900C8B1D9 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		EA894C1420AD98BB00C8B1D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EA8A5BE920AC448F00DD8AA9 /* BAGAN.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BAGAN.jpg; sourceTree = "<group>"; };
 		EAAA8CB320A9AB58006ADEE8 /* CS_CRBTv2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CS_CRBTv2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -165,8 +169,10 @@
 			children = (
 				EAAA8CF520A9CD8C006ADEE8 /* ZawDecode.ttf */,
 				EAAA8CB620A9AB58006ADEE8 /* AppDelegate.swift */,
+				EA894C1420AD98BB00C8B1D9 /* ViewController.swift */,
 				EAAA8CB820A9AB58006ADEE8 /* FirstViewController.swift */,
 				EAAA8CBA20A9AB58006ADEE8 /* SecondViewController.swift */,
+				EA894C1220AD92F900C8B1D9 /* CollectionViewCell.swift */,
 				EAAA8CBC20A9AB58006ADEE8 /* Main.storyboard */,
 				EAAA8CBF20A9AB5A006ADEE8 /* Assets.xcassets */,
 				EAAA8CE620A9C24C006ADEE8 /* Graphics */,
@@ -438,8 +444,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA894C1520AD98BB00C8B1D9 /* ViewController.swift in Sources */,
 				EAAA8CBB20A9AB58006ADEE8 /* SecondViewController.swift in Sources */,
 				EAAA8CB720A9AB58006ADEE8 /* AppDelegate.swift in Sources */,
+				EA894C1320AD92F900C8B1D9 /* CollectionViewCell.swift in Sources */,
 				EAAA8CB920A9AB58006ADEE8 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
